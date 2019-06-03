@@ -89,7 +89,7 @@ public class InventarioEN {
 		this.precioTotalExistencia = precioTotalExistencia;
 	}
 	
-	
+
 	
 	
 }
