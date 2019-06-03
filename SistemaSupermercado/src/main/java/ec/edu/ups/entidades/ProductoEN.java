@@ -2,18 +2,19 @@ package ec.edu.ups.entidades;
 
 public class ProductoEN {
 	
-	private String producto;
+	private String codigo;
 	private String nombre;
 	private String imagen;
 	private double precioCompra;
 	private double precioVenta;
 	private int stock;
 	private boolean estado;
-	public String getProducto() {
-		return producto;
+	
+	public String getCodigo() {
+		return codigo;
 	}
-	public void setProducto(String producto) {
-		this.producto = producto;
+	public void setCodigo(String codigo) {
+		this.codigo = codigo;
 	}
 	public String getNombre() {
 		return nombre;
