@@ -1,5 +1,9 @@
 package ec.edu.ups.entidades;
-
+/**
+ * Clase 
+ * @author NUBEM
+ *
+ */
 public class CategoriaEN {
 
 	private String codigo;
